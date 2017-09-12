@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "taobao-soika",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "taobao-soi",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "TaoBao extensions for browers",
+    "description": "The description of the application"
+  }
+}
